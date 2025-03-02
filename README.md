@@ -2,7 +2,7 @@
 
 # Debian Builder
 
-**Debian Builder** is a open-source tool designed to simplify the process of building and managing Debian packages. It allows users to create `.deb` packages from Python scripts, convert Python files into executable binaries, and handle package installation, uninstallation, and reinstallation. With this tool, developers can easily automate common tasks related to packaging, such as setting executable permissions, managing dependencies, and rebuilding packages. The tool supports a variety of options, including building, installing, uninstalling, and fully rebuilding packages, making it a versatile utility for Debian-based systems.
+**Debian Builder** is an open-source tool designed to simplify the process of building and managing Debian packages. It allows users to create `.deb` packages from Python scripts, convert Python files into executable binaries, and handle package installation, uninstallation, and reinstallation. With this tool, developers can easily automate common tasks related to packaging, such as setting executable permissions, managing dependencies, and rebuilding packages. The tool supports a variety of options, including building, installing, uninstalling, and fully rebuilding packages, making it a versatile utility for Debian-based systems.
 
 ## Features
 
